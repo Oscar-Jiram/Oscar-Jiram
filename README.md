@@ -2,7 +2,7 @@
 
 📍 **North Carolina, USA**  
 📧 oscarcasrto@gmail.com | 📱 (+1) 336-909-6248  
-🔗 [LinkedIn](www.linkedin.com/in/oscar-castro-a7932a211) • [GitHub](https://github.com/johndoe)
+🔗 [LinkedIn](www.linkedin.com/in/oscar-castro-a7932a211) • [GitHub](https://github.com/Oscar-Jiram)
 
 ---
 
