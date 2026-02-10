@@ -2,6 +2,7 @@
 ### Manufacturing & Data Analyst | Industrial Automation Background
 
 ---
+<img width="1584" height="396" alt="Green and White Illustrated Data Scientist LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/99b59d81-c71d-479f-9e29-b41feac57595" />
 
 ##  Overview
 
