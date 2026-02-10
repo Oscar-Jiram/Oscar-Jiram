@@ -1,62 +1,96 @@
-# 👋 Hi, I'm Oscar Castro
-
-📍 **North Carolina, USA**  
-📧 oscarcasrto@gmail.com | 📱 (+1) 336-909-6248  
-🔗 [LinkedIn](www.linkedin.com/in/oscar-castro-a7932a211) • [GitHub](https://github.com/Oscar-Jiram)
+#  Oscar Castro  
+### Manufacturing & Data Analyst | Industrial Automation Background
 
 ---
 
-## 💡 About Me
-I'm a **Data Analyst** with hands-on experience in cleaning, analyzing, and visualizing large datasets.  
-I’m passionate about turning data into actionable insights and helping organizations make data-driven decisions.
+##  Overview
 
-- 🧠 1+ year of experience in data analytics and dashboard development  
-- ⚙️ Skilled in **Python**, **R**, and **SQL (PostgreSQL, BigQuery)**  
-- 📊 Experienced in **Tableau**, **Power BI**, and **Excel** for data visualization  
-- 🚀 Focused on automation, dashboard design, and predictive analytics  
+I am a **Manufacturing & Data Analyst** with hands-on experience in **industrial automation and PLC systems**.  
+My focus is on transforming **raw operational and maintenance data** into actionable insights using **SQL, Python, and BI tools**.
 
----
-
-## 🧰 Core Skills
-
-**Programming:** Python, SQL, R  
-**Data Tools:** Excel, Power BI, PostgreSQL, BigQuery  
-**Visualization:** Tableau, Power BI, R Plotting  
-**Other Tools:** Git, GitHub, HTML, JavaScript  
+I specialize in analytics that directly impact:
+- Equipment reliability
+- Operational efficiency
+- Predictive maintenance strategies
+- Data-driven decision making in manufacturing environments
 
 ---
 
-## 💼 Professional Experience
+## Core Technical Skills
 
-**Junior Data Analyst (Freelance)** — *North Carolina, USA*  
-*Jan 2025 – Present*  
-- Built automated ETL pipelines with Airflow and dbt, cutting data prep time from 5 days to 4 hours  
-- Designed Tableau dashboards for real-time KPI tracking, improving conversion rates by 8%  
-- Developed customer segmentation models (K-means) to boost marketing ROI by 12%  
-- Analyzed 40K+ Airbnb listings using regression models, improving pricing accuracy by 15%  
-- Built a COVID-19 Power BI dashboard integrating live API data for daily health updates  
-- Conducted Netflix content analysis in SQL and Tableau to identify global viewing trends  
+**Data & Analytics**
+- SQL (data analysis, joins, window functions, validation)
+- Python (pandas, numpy, matplotlib, scikit-learn)
+- Data Cleaning & Exploratory Data Analysis (EDA)
+- Predictive Maintenance & Risk Scoring
+- Basic Machine Learning (classification, imbalance handling)
 
-**PLC Technician — Egger Wood Products, Linwood, NC**  
-*Sep 2023 – Present*  
-- Troubleshot German automation systems, reducing machine downtime by 13% per shift  
-- Led machine adaptation projects to improve production flexibility and logistics efficiency  
+**Visualization & BI**
+- Tableau
+- Power BI
+- KPI dashboards and operational reporting
+
+**Industrial Background**
+- PLC systems and industrial sensors
+- Manufacturing and shop-floor data
+- Maintenance and reliability context
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 Predictive Maintenance – Risk Scoring
+**Goal:** Prioritize equipment maintenance using data-driven risk tiers.  
+**Approach:** Statistical analysis, feature weighting, risk segmentation, and dashboards.  
+**Output:** Risk scores, failure-rate analysis, and visual insights for decision-making.
+
+🔗 Repo:  
+https://github.com/Oscar-Jiram/Predictive-Maintenance-Risk-Scoring
+
+---
+
+### 🔹 Predictive Maintenance – Machine Learning
+**Goal:** Predict equipment failures with emphasis on recall and cost-aware decisions.  
+**Approach:** Supervised ML models, class imbalance handling, model evaluation.  
+**Output:** Failure predictions and performance metrics.
+
+🔗 Repo:  
+https://github.com/Oscar-Jiram/Predictive-Maintenance-Machine-Learning
+
+---
+
+### 🔹 Market Basket Analysis (Retail Analytics)
+**Goal:** Identify product associations to support cross-selling strategies.  
+**Approach:** SQL-based analysis, association rules, and BI dashboards.  
+**Output:** Actionable rules and insights for business decisions.
+
+🔗 Repo:  
+https://github.com/Oscar-Jiram/market-basket-analysis-retail
+
+---
+
+### 🔹 Data Cleaning Project
+**Goal:** Build a clean, documented data preparation workflow.  
+**Approach:** Validation, standardization, and reproducible cleaning steps.  
+**Output:** Clean dataset ready for analysis and modeling.
+
+🔗 Repo:  
+https://github.com/Oscar-Jiram/data-cleaning-project
+
+---
+
+## What I Focus On
+
+- Turning noisy operational data into reliable analytics
+- Bridging shop-floor systems with data analysis
+- Designing analytics that support real operational decisions
+- Building reproducible, documented analysis workflows
 
 ---
 
 ## 🎓 Education
 - **B.S. Mechatronic Engineering**, Mexican Polytechnic Institute of Technology (2019–2023)  
 - **A.S. Maintenance Electronic Systems**, CONALEP (2016–2019)  
-
----
-
-## 📈 Projects
-
-- **[Customer Churn Prediction (Telecom)](https://github.com/username/churn-prediction)** — Built an ML pipeline with XGBoost achieving 82% accuracy.  
-- **Netflix Content Analysis** — SQL + Python + Tableau dashboards for global content trends.  
-- **Covid-19 Data Visualization Dashboard** — Interactive Power BI dashboard with live API data.  
-- **Airbnb Price Prediction** — Modeled 40K+ listings with regression and feature engineering (RMSE: $27).  
-- **HR Analytics: Employee Attrition** — Logistic regression in R to identify retention drivers.  
 
 ---
 
@@ -69,7 +103,22 @@ I’m passionate about turning data into actionable insights and helping organiz
 
 ---
 
-## 🌎 Languages
+##  Languages
 - **English:** Fluent  
 - **Spanish:** Native  
+---
+
+## 🌎 Connect
+
+- **LinkedIn:** https://www.linkedin.com/in/oscar-castro-a7932a211  
+- **GitHub:** https://github.com/Oscar-Jiram  
+- **Location:** North Carolina, USA  
+- **Availability:** Open to remote and hybrid opportunities
+
+---
+
+## 📌 Notes for Recruiters
+
+This profile is focused on **practical analytics**, not toy projects.  
+All listed projects include **code, documentation, and reproducible workflows**.
 
