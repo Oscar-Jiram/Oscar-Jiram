@@ -4,122 +4,93 @@
 ---
 <img width="1584" height="396" alt="Green and White Illustrated Data Scientist LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/99b59d81-c71d-479f-9e29-b41feac57595" />
 
-##  Overview
+## 🚀 Overview
 
-I am a **Manufacturing & Data Analyst** with hands-on experience in **industrial automation and PLC systems**.  
-My focus is on transforming **raw operational and maintenance data** into actionable insights using **SQL, Python, and BI tools**.
+I am an **Industrial Data Analyst** and **Mechatronic Engineer** with hands-on shop-floor experience in **PLC systems, industrial sensors, and electronic maintenance**. 
+
+My core focus is transforming **raw operational, maintenance, and IoT telemetry** into actionable data solutions using **SQL, Python, and BI tools**.
 
 I specialize in analytics that directly impact:
-- Equipment reliability
-- Operational efficiency
-- Predictive maintenance strategies
-- Data-driven decision making in manufacturing environments
+- ⚡ **Equipment Reliability & Risk Scoring**
+- 🛠️ **Predictive Maintenance Strategies**
+- 📉 **Downtime Minimization (MTBF / MTTR)**
+- 📊 **Data-Driven Operational Decisions**
 
 ---
 
-## Core Technical Skills
+## 🛠️ Technical Stack
 
-**Data & Analytics**
-- SQL (data analysis, joins, window functions, validation)
-- Python (pandas, numpy, matplotlib, scikit-learn)
-- Data Cleaning & Exploratory Data Analysis (EDA)
-- Predictive Maintenance & Risk Scoring
-- Basic Machine Learning (classification, imbalance handling)
-
-**Visualization & BI**
-- Tableau
-- Power BI
-- KPI dashboards and operational reporting
-
-**Industrial Background**
-- PLC systems and industrial sensors
-- Manufacturing and shop-floor data
-- Maintenance and reliability context
+* **Data Analytics & ML:** Python (`pandas`, `numpy`, `scikit-learn`, `XGBoost`), SQL (`joins`, `window functions`, `data validation`), Model Explainability (`SHAP`), Class Imbalance Techniques
+* **Visualization & BI:** Tableau, Power BI, Interactive KPI Dashboards, Operational Reporting
+* **Industrial Background:** PLC Systems & Sensors, Shop-Floor Telemetry, Maintenance & Reliability Context
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔹 Predictive Maintenance – Risk Scoring
-**Goal:** Prioritize equipment maintenance using data-driven risk tiers.  
-**Approach:** Statistical analysis, feature weighting, risk segmentation, and dashboards.  
-**Output:** Risk scores, failure-rate analysis, and visual insights for decision-making.
+### 🔹 [Predictive Maintenance – Machine Learning](https://github.com/Oscar-Jiram/Predictive-Maintenance-Machine-Learning)
+* **Goal:** Predict equipment failures with an emphasis on recall, cost-aware decisions, and risk mitigation.
+* **Tech Stack:** Python, `scikit-learn`, `XGBoost`, `SHAP` (Model Explainability), Imbalanced Data Handling.
+* **Output:** Failure predictions, feature importance analysis, and evaluation metrics for engineering teams.
 
-🔗 Repo:  
-https://github.com/Oscar-Jiram/Predictive-Maintenance-Risk-Scoring
+### 🔹 [Predictive Maintenance – Risk Scoring](https://github.com/Oscar-Jiram/Predictive-Maintenance-Risk-Scoring)
+* **Goal:** Prioritize equipment maintenance using data-driven risk tiers to prevent unexpected downtime.
+* **Tech Stack:** Statistical Analysis, Feature Weighting, Risk Segmentation, SQL.
+* **Output:** Equipment risk scores, failure-rate analysis, and visual decision-support insights.
 
----
+### 🔹 [Market Basket Analysis – Retail Analytics](https://github.com/Oscar-Jiram/market-basket-analysis-retail)
+* **Goal:** Identify product association rules to drive cross-selling strategies and operational decision-making.
+* **Tech Stack:** SQL-based Analysis, Association Rules, Interactive BI Dashboards.
+* **Output:** Actionable business rules and executive dashboard reporting.
 
-### 🔹 Predictive Maintenance – Machine Learning
-**Goal:** Predict equipment failures with emphasis on recall and cost-aware decisions.  
-**Approach:** Supervised ML models, class imbalance handling, model evaluation.  
-**Output:** Failure predictions and performance metrics.
-
-🔗 Repo:  
-https://github.com/Oscar-Jiram/Predictive-Maintenance-Machine-Learning
-
----
-
-### 🔹 Market Basket Analysis (Retail Analytics)
-**Goal:** Identify product associations to support cross-selling strategies.  
-**Approach:** SQL-based analysis, association rules, and BI dashboards.  
-**Output:** Actionable rules and insights for business decisions.
-
-🔗 Repo:  
-https://github.com/Oscar-Jiram/market-basket-analysis-retail
+### 🔹 [Data Cleaning & Preparation Pipeline](https://github.com/Oscar-Jiram/data-cleaning-project)
+* **Goal:** Build a robust, documented, and reproducible data preparation workflow for messy datasets.
+* **Tech Stack:** Python, SQL, Data Validation Rules.
+* **Output:** Clean, standardized dataset ready for downstream analytics and predictive modeling.
 
 ---
 
-### 🔹 Data Cleaning Project
-**Goal:** Build a clean, documented data preparation workflow.  
-**Approach:** Validation, standardization, and reproducible cleaning steps.  
-**Output:** Clean dataset ready for analysis and modeling.
+## 🎯 What I Focus On
 
-🔗 Repo:  
-https://github.com/Oscar-Jiram/data-cleaning-project
-
----
-
-## What I Focus On
-
-- Turning noisy operational data into reliable analytics
-- Bridging shop-floor systems with data analysis
-- Designing analytics that support real operational decisions
-- Building reproducible, documented analysis workflows
+- **Shop-Floor to Analytics:** Translating noisy machine sensor data into reliable operational metrics.
+- **Explainable AI:** Building Machine Learning models (`XGBoost`, `SHAP`) that maintenance and reliability teams can interpret and trust.
+- **Decision-Support BI:** Designing interactive dashboards tailored for operational and executive decision-making.
+- **Reproducible Engineering:** Maintaining documented, production-ready code repositories.
 
 ---
 
 ## 🎓 Education
-- **B.S. Mechatronic Engineering**, Mexican Polytechnic Institute of Technology (2019–2023)  
-- **A.S. Maintenance Electronic Systems**, CONALEP (2016–2019)  
+
+* **B.S. in Mechatronics Engineering** | Mexican Polytechnic Institute of Technology (2019–2023)
+* **A.S. in Electronic Systems Maintenance** | CONALEP (2016–2019)
 
 ---
 
 ## 🏅 Certifications
-- Google Data Analytics Professional Certificate (2025)  
-- Google Agile Essentials (2025)  
-- DataCamp – Git & GitHub Foundations (2025)  
-- SQL Intermediate & SQL Joins (2025)  
-- Academia X – HTML, CSS & JavaScript Master Classes (2024)  
+
+* **Google Data Analytics Professional Certificate** (2025)
+* **Google Agile Essentials** (2025)
+* **DataCamp – Git & GitHub Foundations** (2025)
+* **SQL Intermediate & SQL Joins** (2025)
+* **Academia X – HTML, CSS & JavaScript Master Classes** (2024)
 
 ---
 
-##  Languages
-- **English:** Fluent  
-- **Spanish:** Native  
----
+## 🌐 Languages
 
-## 🌎 Connect
-
-- **LinkedIn:** https://www.linkedin.com/in/oscar-castro-a7932a211  
-- **GitHub:** https://github.com/Oscar-Jiram  
-- **Location:** North Carolina, USA  
-- **Availability:** Open to remote and hybrid opportunities
+* **English:** Professional / Fluent
+* **Spanish:** Native
 
 ---
 
-## 📌 Notes for Recruiters
+## 📬 Connect & Availability
 
-This profile is focused on **practical analytics**, not toy projects.  
-All listed projects include **code, documentation, and reproducible workflows**.
+* **Location:** North Carolina, USA
+* **Availability:** Open to Full-Time Remote Opportunities (U.S. Market)
+* **LinkedIn:** [linkedin.com/in/oscar-castro-a7932a211](https://www.linkedin.com/in/oscar-castro-a7932a211)
+* **GitHub:** [github.com/Oscar-Jiram](https://github.com/Oscar-Jiram)
+* **Email:** oscarscastro@gmail.com
 
+---
+
+> 📌 **Note for Recruiters & Engineering Managers:** This profile reflects practical, domain-specific analytics solving real industrial problems. All projects feature clean, well-documented, and reproducible code workflows.
