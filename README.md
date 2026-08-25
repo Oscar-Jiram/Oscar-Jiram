@@ -10,9 +10,9 @@ I am an Analytics and Mechatronic Engineer specializing in transforming raw oper
 ### 🛠️ Technical Arsenal
 
 * **Data Warehousing:** Google BigQuery, PostgreSQL, Dimensional Data Modeling (Star Schema).
-* **Engineering & Orchestration:** Python (pandas), Advanced SQL, dbt (Jinja Macros, Materializations), Prefect, Airflow.
+* **Engineering & Orchestration:** Python (pandas), Advanced SQL, dbt, Prefect, Airflow.
 * **Observability & Quality:** Automated Testing (schema.yml), Retry Logic, Pipeline Alerting, Data Lineage.
-* **BI Delivery:** Looker, Power BI, Semantic Layer Modeling, Operational KPIs.
+* **BI Delivery:** Power BI, Operational KPIs.
 
 ### ⚙️ What I Do
 * 🏗️ Collaborate on scalable production data pipelines.
